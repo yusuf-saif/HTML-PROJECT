@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    
+}
+.flag{
+    /* background-color: aqua; */
+    background-size: 40%;
+    border: 55% solid rgba(0, 0, 255, 0);
+    text-align: center;
+    text-decoration:underline;
+    text-transform: uppercase;
+    font-size: larger;
+    font-weight:bolder;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.gnone{
+    color:rgb(45, 53, 45);
+    border: 40px solid green;
+    padding: 10px ;
+    /* margin: 30px; */
+    background-color: green;
+}
+.whtwo{
+    color: rgb(131, 126, 126);
+    border: 2px solid black;
+    padding: 20px;
+    /* margin: 30px; */
+    background-color: white;
+}
